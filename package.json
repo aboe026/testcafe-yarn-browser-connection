@@ -1,0 +1,10 @@
+{
+  "name": "testcafe-yarn-browser-connection",
+  "scripts": {
+    "test": "testcafe --config-file=.testcaferc.json"
+  },
+  "dependencies": {
+    "testcafe": "2.1.0"
+  },
+  "packageManager": "yarn@3.3.0"
+}
